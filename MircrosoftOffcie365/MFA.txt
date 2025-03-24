@@ -1,5 +1,5 @@
 mode con: cols=115 lines=18
-title Office 365 Activator by TeluguBuzzz
+title Office 365 Activator by TeluguBuzzz.
 @echo off
 chcp 65001 > nul
 cls
